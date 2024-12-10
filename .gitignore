@@ -1,0 +1,6 @@
+yolo11n.pt
+/model/yolo11n.pt
+/model/*.ipynb_checkpoints
+/datasets/train
+/datasets/valid
+/datasets/test

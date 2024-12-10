@@ -1,0 +1,13 @@
+train: /home/ligma/Desktop/programs/Ai_projects/cup_detector/datasets/train/images
+val: /home/ligma/Desktop/programs/Ai_projects/cup_detector/datasets/valid/images
+test: /home/ligma/Desktop/programs/Ai_projects/cup_detector/datasets/test/images
+
+nc: 1
+names: ['0']
+
+roboflow:
+  workspace: 3yp
+  project: mug-detector-hhby8
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/3yp/mug-detector-hhby8/dataset/1
